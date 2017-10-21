@@ -1,0 +1,14 @@
+title: stepharr.com
+description: Stephon
+copyright: 2017
+sass:
+  sass_dir: assets/sass
+url: http://localhost:4000
+twitter_username: "_stepharr"
+linkedin_username: ""
+github_username:  "theonestep4"
+feed_icon: rss
+
+plugins: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5

@@ -1,0 +1,55 @@
+- name: Ruby Rogues
+  url: http://rubyrogues.com
+  itunes: https://itunes.apple.com/us/podcast/ruby-rogues/id705335155?mt=2
+  rss: http://feeds.feedwrench.com/RubyRogues.rss
+  twitter: rubyrogues
+- name: Javascript Jabber
+  url: http://javascriptjabber.com
+  itunes: https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2
+  rss: http://feeds.feedwrench.com/JavaScriptJabber.rss
+  twitter: JSJabber
+- name: Adventures in Angular
+  url: http://adventuresinangular.com/
+  itunes: https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2
+  rss: http://feeds.feedwrench.com/AdventuresInAngular.rss
+  twitter: angularpodcast
+- name: Giant Robots Smashing into other Giant Robots Podcast
+  url: http://giantrobots.fm/
+  itunes: https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941
+  rss: http://simplecast.fm/podcasts/271/rss
+  twitter: thoughtbot
+- name: The Bike Shed
+  url: http://bikeshed.fm/
+  itunes: https://itunes.apple.com/us/podcast/the-bike-shed/id935763119
+  rss: http://simplecast.fm/podcasts/282/rss
+  twitter: _bikeshed
+- name: The Changelog
+  url: https://changelog.com/
+  itunes: https://itunes.apple.com/podcast/the-changelog/id341623264
+  rss: http://feeds.5by5.tv/changelog
+  twitter: changelog
+- name: NodeUp
+  url: http://nodeup.com/
+  itunes: itms://itunes.apple.com/us/podcast/nodeup/id447667314?ign-mpt=uo%3D4
+  rss: http://feeds.feedburner.com/NodeUp
+  twitter: NodeUp
+- name: Reactive Podcast
+  url: http://reactive.audio/
+  itunes: https://itunes.apple.com/de/podcast/reactive/id1020286000?l=en&mt=2
+  rss: http://simplecast.fm/podcasts/1232/rss
+  twitter: reactivepod
+- name: Turing Incomplete
+  url: http://turing.cool/
+  itunes: https://itunes.apple.com/us/podcast/turing-incomplete/id886675939
+  rss: http://feeds.feedburner.com/Turing-Incomplete
+  twitter: turingcool
+- name: Ruby5
+  url: https://ruby5.codeschool.com/
+  itunes: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=327234205
+  rss: https://ruby5.codeschool.com/feed.rss
+  twitter: rubyfive
+- name: DC Tech Stories
+  url: http://dctechstories.com/
+  itunes: https://itunes.apple.com/us/podcast/dc-tech-stories/id1255302980
+  rss: http://dctechstories.com/feed.xml
+  twitter: DC_techstories

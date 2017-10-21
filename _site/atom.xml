@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	
+	<title>stepharr.com</title>
+	<subtitle>Stephon
+</subtitle>
+	<link href="http://localhost:4000/atom.xml" rel="self" />
+	<link href="http://localhost:4000/" />
+	<id>http://localhost:4000/</id>
+	<updated>2017-10-20T23:53:24-05:00</updated>
+  
+	<entry>
+		<title>Hello World!</title>
+		<link href="http://localhost:4000/thoughts/2016/02/28/hello-world.html" />
+		<link rel="alternate" type="text/html" href="http://localhost:4000/thoughts/2016/02/28/hello-world.html"/>
+		<id>http://localhost:4000/thoughts/2016/02/28/hello-world.html</id>
+		<updated>2016-02-28T00:00:00-06:00</updated>
+		<summary>Some text.</summary>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>I have returned to the world of blogging…</p>
+
+<p>It has been a very long time since I have written a blog and I have never been consistant. My blogging past starts back in 2006, when I wrote <a href="https://geekvsdrupal.wordpress.com/2006/08/18/drupal-is-changing-my-life-apparentlypart-1/">Drupal is Changing my Life</a>…</p>
+
+<p>What is bringing me back to blogging today is my love of technology, and the want to expose folks to what is new and exciting in my world.  A quick preview of where this blog is likely to go is : <a href="https://tc39.github.io/ecma262/">modern Javascript</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://facebook.github.io/react/">React.js</a> and anything else that I am excited about…</p>
+ 
+<br />
+<hr />
+<p>You’ve just read <strong>"<a href="http://localhost:4000/thoughts/2016/02/28/hello-world.html">Hello World!</a>"</strong> on <strong>"<a href="http://localhost:4000/">stepharr.com</a>"</strong>.</p>
+
+			</div>
+		</content>
+		<author>
+			<name>2017</name>
+		</author>
+	</entry>
+  
+</feed>
