@@ -10,6 +10,6 @@
   From: Nashville, United States
 
 /* SITE */
-  Last Update: 2017-10-20 23:53:24 -0500
+  Last Update: 2017-10-30 15:28:17 -0400
   Generator: Jekyll v3.5.2 (http://jekyllrb.com)
   IDE: Atom (https://atom.io)

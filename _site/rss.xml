@@ -2,29 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   
   <channel>
-    <title>stepharr.com</title>
-    <description>Stephon
+    <title>fullstackfirefighter.com</title>
+    <description>Putting out code fires, one line at a time.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Oct 2017 23:53:24 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Oct 2017 23:53:24 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 15:28:17 -0400</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 15:28:17 -0400</lastBuildDate>
     
     <item>
-      <title>Hello World!</title>
-      <description><![CDATA[ <p>I have returned to the world of blogging…</p>
-
-<p>It has been a very long time since I have written a blog and I have never been consistant. My blogging past starts back in 2006, when I wrote <a href="https://geekvsdrupal.wordpress.com/2006/08/18/drupal-is-changing-my-life-apparentlypart-1/">Drupal is Changing my Life</a>…</p>
-
-<p>What is bringing me back to blogging today is my love of technology, and the want to expose folks to what is new and exciting in my world.  A quick preview of where this blog is likely to go is : <a href="https://tc39.github.io/ecma262/">modern Javascript</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://facebook.github.io/react/">React.js</a> and anything else that I am excited about…</p>
+      <title>Stateless Wordpress Deployment</title>
+      <description><![CDATA[ 
  
 <br />
 <hr />
-<p>You’ve just read <strong>"<a href="http://localhost:4000/thoughts/2016/02/28/hello-world.html">Hello World!</a>"</strong> on <strong>"<a href="http://localhost:4000/">stepharr.com</a>"</strong>.</p>
+<p>You’ve just read <strong>"<a href="http://localhost:4000/thoughts/2017/10/30/stateless-wordpress.html">Stateless Wordpress Deployment</a>"</strong> on <strong>"<a href="http://localhost:4000/">fullstackfirefighter.com</a>"</strong>.</p>
  ]]></description>
-      <pubDate>Sun, 28 Feb 2016 00:00:00 -0600</pubDate>
-      <link>http://localhost:4000/thoughts/2016/02/28/hello-world.html</link>
-      <guid isPermaLink="true">http://localhost:4000/thoughts/2016/02/28/hello-world.html</guid>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+      <link>http://localhost:4000/thoughts/2017/10/30/stateless-wordpress.html</link>
+      <guid isPermaLink="true">http://localhost:4000/thoughts/2017/10/30/stateless-wordpress.html</guid>
+      
+      <category>thoughts</category>
+      
+    </item>
+    
+    <item>
+      <title>On the Importance of Pairing</title>
+      <description><![CDATA[ 
+ 
+<br />
+<hr />
+<p>You’ve just read <strong>"<a href="http://localhost:4000/thoughts/2017/10/30/pairing.html">On the Importance of Pairing</a>"</strong> on <strong>"<a href="http://localhost:4000/">fullstackfirefighter.com</a>"</strong>.</p>
+ ]]></description>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+      <link>http://localhost:4000/thoughts/2017/10/30/pairing.html</link>
+      <guid isPermaLink="true">http://localhost:4000/thoughts/2017/10/30/pairing.html</guid>
+      
+      <category>thoughts</category>
+      
+    </item>
+    
+    <item>
+      <title>Importance of Config Maps</title>
+      <description><![CDATA[ 
+ 
+<br />
+<hr />
+<p>You’ve just read <strong>"<a href="http://localhost:4000/thoughts/2017/10/30/ConfigMaps.html">Importance of Config Maps</a>"</strong> on <strong>"<a href="http://localhost:4000/">fullstackfirefighter.com</a>"</strong>.</p>
+ ]]></description>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+      <link>http://localhost:4000/thoughts/2017/10/30/ConfigMaps.html</link>
+      <guid isPermaLink="true">http://localhost:4000/thoughts/2017/10/30/ConfigMaps.html</guid>
       
       <category>thoughts</category>
       
